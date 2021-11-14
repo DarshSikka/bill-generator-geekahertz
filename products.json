@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Lorem Ipsum",
+    "description": "Gorem Ipsum Gorem Gorem Gorem",
+    "price": 900
+  },
+  {
+    "id": 2,
+    "name": "Morem Ipsum",
+    "description": "Morem Ipsum Gorem Gorem Gorem",
+    "price": 1200
+  },
+  {
+    "id": 3,
+    "name": "Horem Ipsum",
+    "description": "Aorem Ipsum Gorem Gorem Gorem",
+    "price": 1100
+  }
+]
